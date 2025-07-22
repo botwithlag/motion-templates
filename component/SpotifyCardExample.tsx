@@ -11,8 +11,8 @@ function SpotifyCardExample() {
     <div className='relative min-w-creen min-h-screen flex bg-white justify-center items-center'>
         {
             current&& (
-            <div className='absolute h-[600px] inset-0 rounded bg-red-60'>
-          
+            <div className='fixed w-80 h-[500px] z-20 m-auto inset-0  bg-white rounded-xl'>
+               
             </div>
             )
         }
