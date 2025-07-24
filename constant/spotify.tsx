@@ -22,7 +22,9 @@ const cardSeedData: Card[] = [
     content: () => (
       <div>
         <p className="text-[10px] text-gray-700">
-          Our new collection focuses on comfort, style, and environmental responsibility, designed for the conscious consumer.
+        Lana Del Rey, an iconic American singer-songwriter, is celebrated for her melancholic and cinematic music style. Born Elizabeth Woolridge Grant in New York City, she has captivated audiences worldwide with her haunting voice and introspective lyrics.
+
+Her songs often explore themes of tragic romance, glamour, and melancholia, drawing inspiration from both contemporary and vintage pop culture. With a career that has seen numerous
         </p>
       </div>
     ),
@@ -36,7 +38,9 @@ const cardSeedData: Card[] = [
     content: () => (
       <div>
         <p className="text-[10px] text-gray-700">
-          This comprehensive course will take you from a React beginner to a confident full-stack developer in just weeks.
+        Lana Del Rey, an iconic American singer-songwriter, is celebrated for her melancholic and cinematic music style. Born Elizabeth Woolridge Grant in New York City, she has captivated audiences worldwide with her haunting voice and introspective lyrics.
+
+Her songs often explore themes of tragic romance, glamour, and melancholia, drawing inspiration from both contemporary and vintage pop culture. With a career that has seen numerous
         </p>
       </div>
     ),
@@ -49,8 +53,10 @@ const cardSeedData: Card[] = [
     ctaLink: '/recipes/healthy-eating',
     content: () => (
       <div>
-        <p className="text-[10px] italic text-gray-700">
-          Discover how small changes to your eating habits can lead to significant improvements in your overall well-being.
+        <p className="text-[10px]  text-gray-700">
+         Lana Del Rey, an iconic American singer-songwriter, is celebrated for her melancholic and cinematic music style. Born Elizabeth Woolridge Grant in New York City, she has captivated audiences worldwide with her haunting voice and introspective lyrics.
+
+Her songs often explore themes of tragic romance, glamour, and melancholia, drawing inspiration from both contemporary and vintage pop culture. With a career that has seen numerous
         </p>
       </div>
     ),
@@ -63,8 +69,10 @@ const cardSeedData: Card[] = [
     ctaLink: '/destinations/alps',
     content: () => (
       <div>
-        <p className="text-sm text-gray-700">
-          From thrilling mountain trails to serene alpine lakes, your perfect adventure starts here in the heart of the Alps.
+        <p className="text-[10px] text-gray-700">
+          Lana Del Rey, an iconic American singer-songwriter, is celebrated for her melancholic and cinematic music style. Born Elizabeth Woolridge Grant in New York City, she has captivated audiences worldwide with her haunting voice and introspective lyrics.
+
+Her songs often explore themes of tragic romance, glamour, and melancholia, drawing inspiration from both contemporary and vintage pop culture. With a career that has seen numerous
         </p>
       </div>
     ),
