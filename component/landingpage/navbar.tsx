@@ -47,11 +47,11 @@ const Navbar = () => {
    <Container>
     <motion.nav
     animate={{
-        width:fix?"40%":"100%",
-        boxShadow:fix?"var(--shadow-important)":"none",
+        width:fix?"50%":"100%",
+        boxShadow:fix?"var(--shadow-box)":"none",
         y:fix?"10":"0",
     }}
-     className='z-5 fixed inset-x-0 flex max-w-xl mx-auto  justify-between p-3 '>
+     className=' rounded-2xl fixed inset-x-0 flex max-w-xl mx-auto  justify-between p-2 md:p-4 '>
       <Image  className='h-10 w-10 z-50 rounded-full '
       height="20"
       width="50"

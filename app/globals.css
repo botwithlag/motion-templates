@@ -5,7 +5,7 @@
 @theme inline {
     --color-primary:var(--color-neutral-800);
     --color-secondary:var(--color-neutral-600);
-    --shadow-important:rgba(234, 234, 234, 0.1) 0px 0px 0px 0px, rgba(235, 235, 235, 0.02) 0px 0px 0px 0px, rgba(235, 235, 235, 0.08) 0px 0px 0px 0px
+    --shadow-box:0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .dark{
     --color-primary:var(--color-neutral-100);

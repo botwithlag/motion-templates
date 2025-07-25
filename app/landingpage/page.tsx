@@ -3,12 +3,13 @@ import Container from '@/component/Container'
 import SwitchWords from '@/component/landingpage/switchWords'
 import Circlehover from '@/component/landingpage/circlehover'
 import DraggableCard from '@/component/landingpage/DraggableCard'
+import Projects from '@/component/landingpage/projects'
 function page() {
   return (
-    <div className='min-h-screen flex justify-items-start'>
-      <Container className='pt-5 md:pt-10'>
+    <div className='min-h-[2000px] flex justify-items-start'>
+      <Container className='pt-10 md:p-10 '>
           <div className='flex m-3 gap-2'>
-            <h1 className='text-primary  md:text-4xl font-bold tracking-tight'>Hello there</h1>
+            <h1 className='text-primary text-3xl  md:text-4xl font-bold tracking-tight'>Hello there</h1>
             <div className='p-2'>
           <SwitchWords></SwitchWords>
         </div>
@@ -18,9 +19,10 @@ function page() {
             138 packages are looking for funding
             run `npm fund` for details 
         </p>
-        <div className='m-5'>
-            <DraggableCard></DraggableCard>
+        <div className='py-10'>
+          <Projects></Projects>
         </div>
+        
    
         
       </Container>
